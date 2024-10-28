@@ -22,7 +22,7 @@ jobs:
         shell: pwsh
         run: |
           $baseDate = Get-Date -Format "yyyyMMdd"
-          $outputDir = "data"
+          $outputDir = "docs/data"
           $urls = @(
               @{
                   url = "https://ea-edubase-backend-prod.azurewebsites.net/edubase/edubasealldata$baseDate.csv";
