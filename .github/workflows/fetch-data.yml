@@ -55,7 +55,7 @@ jobs:
           $csvFiles = Get-ChildItem -Path $dataDir -Filter *.csv
           foreach ($csvFile in $csvFiles) {
               try {
-                  $jsonFile = Join-Path -Path $outputDir -ChildPath ($csvFile.BaseName + ".json")
+                  $jsonFile = Join-Path -Path $dataDir -ChildPath ($csvFile.BaseName + ".json")
                   Write-Host "Start reading:  $csvFile"
                   $data = Import-Csv -Path $csvFile.FullName
                   Write-Host "Finish reading: $csvFile"
