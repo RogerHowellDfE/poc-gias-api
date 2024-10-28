@@ -9,7 +9,7 @@ on:
 
 permissions:
   contents: write
-  
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -47,28 +47,59 @@ jobs:
                   Write-Host "Failed to download: $($item.url)"
               }
           }
-          
+
       - name: Convert CSV files to JSON
         shell: pwsh
         run: |
           $dataDir = "docs/data"
-          $csvFiles = Get-ChildItem -Path $dataDir -Filter *.csv
-          foreach ($csvFile in $csvFiles) {
-              try {
-                  $jsonFile = Join-Path -Path $dataDir -ChildPath ($csvFile.BaseName + ".json")
-                  Write-Host "Start reading:  $csvFile"
-                  $data = Import-Csv -Path $csvFile.FullName
-                  Write-Host "Finish reading: $csvFile"
-                  Write-Host "Start converting to JSON: $csvFile to $jsonFile"
-                  $json = $data | ConvertTo-Json -Depth 100
-                  $json | Set-Content -Path $jsonFile
-                  Write-Host "Converted to JSON:        $csvFile to $jsonFile"
-                  Set-Content -Path $jsonFile -Value $json
-              } catch {
-                  Write-Host "Failed to convert: $csvFile"
-                  exit 1
-              }
+          $establishmentDir = Join-Path -Path $dataDir -ChildPath "establishment"
+          $csvFilePath = Join-Path -Path $dataDir -ChildPath "edubasealldata.csv"
+          
+          # Ensure the establishment directory exists
+          If (-Not (Test-Path -Path $establishmentDir)) {
+              New-Item -ItemType Directory -Path $establishmentDir
           }
+          
+          try {
+              Write-Host "Begin reading:  $csvFilePath"
+              $data = Import-Csv -Path $csvFilePath
+              Write-Host "End reading: $csvFilePath"
+          
+          #    # Take only the first 10 entries (for debugging / running locally)
+          #    $data = $data | Select-Object -First 10
+          
+              # Create a hashset of all URNs in the CSV file for quick lookup
+              $urnsInCsv = @{}
+          
+              # Process each row and create JSON files
+              foreach ($row in $data) {
+                  $urn = $row.URN
+                  $urnsInCsv[$urn] = $true
+                  $jsonFile = Join-Path -Path $establishmentDir -ChildPath ($urn + ".json")
+          
+                  Write-Host "Begin converting to JSON: $csvFilePath with URN $urn to $jsonFile"
+                  $json = $row | ConvertTo-Json -Depth 100
+                  Write-Host "End converting to JSON: $csvFilePath with URN $urn to $jsonFile"
+          
+                  Write-Host "Begin writing JSON file: $jsonFile"
+                  Set-Content -Path $jsonFile -Value $json
+                  Write-Host "End writing JSON file: $jsonFile"
+              }
+          
+              # Remove JSON files for URNs that are no longer present in the CSV
+              $existingJsonFiles = Get-ChildItem -Path $establishmentDir -Filter *.json
+              foreach ($jsonFile in $existingJsonFiles) {
+                  $urn = [System.IO.Path]::GetFileNameWithoutExtension($jsonFile.Name)
+                  if (-not $urnsInCsv.ContainsKey($urn)) {
+                      Write-Host "Removing outdated JSON file: $jsonFile"
+                      Remove-Item -Path $jsonFile.FullName
+                  }
+              }
+          } catch {
+              Write-Host "Failed to convert: $csvFilePath"
+              Write-Host $_.Exception.Message
+          }
+
 
       - name: Commit and push changes
         run: |
