@@ -63,6 +63,7 @@ jobs:
                   $json = $data | ConvertTo-Json -Depth 100
                   $json | Set-Content -Path $jsonFile
                   Write-Host "Converted to JSON:        $csvFile to $jsonFile"
+                  Set-Content -Path $jsonFile -Value $json
               } catch {
                   Write-Host "Failed to convert: $csvFile"
               }
