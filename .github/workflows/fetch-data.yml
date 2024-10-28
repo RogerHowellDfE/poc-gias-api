@@ -52,7 +52,7 @@ jobs:
         shell: pwsh
         run: |
           $dataDir = "docs/data"
-          $csvFiles = Get-ChildItem -Path $inputDir -Filter *.csv
+          $csvFiles = Get-ChildItem -Path $dataDir -Filter *.csv
           foreach ($csvFile in $csvFiles) {
               try {
                   $jsonFile = Join-Path -Path $outputDir -ChildPath ($csvFile.BaseName + ".json")
