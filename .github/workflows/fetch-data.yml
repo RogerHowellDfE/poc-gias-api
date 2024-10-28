@@ -100,6 +100,49 @@ jobs:
               Write-Host $_.Exception.Message
           }
 
+      - name: Generate basic static HTML page
+        shell: pwsh
+        run: |
+          $templateFile = "docs/index.html.template"
+          $outputFile = "docs/index.html"
+          $jsonDirectory = "docs/data/establishment"
+          
+          # Get all JSON files in the establishment directory
+          $jsonFiles = Get-ChildItem -Path $jsonDirectory -Filter *.json
+          $totalFiles = $jsonFiles.Length
+          
+          Write-Host "Begin generating HTML content"
+          $listDataHtmlString = ""
+          $fileIndex = 1
+          
+          # Iterate over each JSON file and extract the necessary information
+          foreach ($jsonFile in $jsonFiles) {
+              Write-Host "Begin reading JSON file ${fileIndex} of ${totalFiles}: $jsonFile"
+              $jsonString = Get-Content -Path $jsonFile.FullName
+              Write-Host "End   reading JSON file ${fileIndex} of ${totalFiles}: $jsonFile"
+          
+              Write-Host "Begin converting JSON string to JSON object"
+              $json = $jsonString | ConvertFrom-Json
+              Write-Host "End   converting JSON string to JSON object"
+          
+              # Extract necessary fields from the JSON content
+              $urn = $json.URN
+              $name = $json."EstablishmentName"
+              $link = "./data/establishment/$($jsonFile.Name)"
+          
+              # Append URN, Name, and Link to HTML list
+              $listDataHtmlString += "<li>URN: $urn - Name: $name - <a href='$link'>JSON File</a></li>`n"
+          
+              $fileIndex++
+          }
+          
+          $template = Get-Content -Path $templateFile
+          $template = $template -replace "<!-- list placeholder -->", $listDataHtmlString
+          Write-Host "End   generating HTML content"
+          
+          $htmlContent = $template
+          $htmlContent | Set-Content -Path $outputFile
+          Write-Host "Generated HTML file: $outputFile"
 
       - name: Commit and push changes
         run: |
