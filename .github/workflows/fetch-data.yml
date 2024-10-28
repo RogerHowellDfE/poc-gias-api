@@ -72,18 +72,24 @@ jobs:
               $urnsInCsv = @{}
           
               # Process each row and create JSON files
+              $rowIndex = 0
               foreach ($row in $data) {
+                  $rowIndex++
+                  if ($rowIndex % 1000 -eq 0) {
+                      Write-Host "Processing row ${rowIndex} of $($data.Length)"
+                  }
+          
                   $urn = $row.URN
                   $urnsInCsv[$urn] = $true
                   $jsonFile = Join-Path -Path $establishmentDir -ChildPath ($urn + ".json")
           
-                  Write-Host "Begin converting to JSON: $csvFilePath with URN $urn to $jsonFile"
+                  Write-Debug "Begin converting to JSON: $csvFilePath with URN $urn to $jsonFile"
                   $json = $row | ConvertTo-Json -Depth 100
-                  Write-Host "End converting to JSON: $csvFilePath with URN $urn to $jsonFile"
+                  Write-Debug "End converting to JSON: $csvFilePath with URN $urn to $jsonFile"
           
-                  Write-Host "Begin writing JSON file: $jsonFile"
+                  Write-Debug "Begin writing JSON file: $jsonFile"
                   Set-Content -Path $jsonFile -Value $json
-                  Write-Host "End writing JSON file: $jsonFile"
+                  Write-Debug "End writing JSON file: $jsonFile"
               }
           
               # Remove JSON files for URNs that are no longer present in the CSV
