@@ -47,6 +47,26 @@ jobs:
                   Write-Host "Failed to download: $($item.url)"
               }
           }
+          
+      - name: Convert CSV files to JSON
+        shell: pwsh
+        run: |
+          $dataDir = "docs/data"
+          $csvFiles = Get-ChildItem -Path $inputDir -Filter *.csv
+          foreach ($csvFile in $csvFiles) {
+              try {
+                  $jsonFile = Join-Path -Path $outputDir -ChildPath ($csvFile.BaseName + ".json")
+                  Write-Host "Start reading:  $csvFile"
+                  $data = Import-Csv -Path $csvFile.FullName
+                  Write-Host "Finish reading: $csvFile"
+                  Write-Host "Start converting to JSON: $csvFile to $jsonFile"
+                  $json = $data | ConvertTo-Json -Depth 100
+                  $json | Set-Content -Path $jsonFile
+                  Write-Host "Converted to JSON:        $csvFile to $jsonFile"
+              } catch {
+                  Write-Host "Failed to convert: $csvFile"
+              }
+          }
 
       - name: Commit and push changes
         run: |
