@@ -1,0 +1,55 @@
+name: Fetch and Update Data
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download CSV files
+        shell: pwsh
+        run: |
+          $baseDate = Get-Date -Format "yyyyMMdd"
+          $urls = @(
+              @{
+                  url = "https://ea-edubase-backend-prod.azurewebsites.net/edubase/edubasealldata$baseDate.csv";
+                  outputFile = "edubasealldata.csv"
+              },
+              @{
+                  url = "https://ea-edubase-backend-prod.azurewebsites.net/edubase/links_edubasealldata$baseDate.csv";
+                  outputFile = "links_edubasealldata.csv"
+              }
+          )
+
+          if (-Not (Test-Path -Path $outputDir)) {
+              New-Item -ItemType Directory -Path $outputDir | Out-Null
+          }
+
+          foreach ($item in $urls) {
+              try {
+                  $outputFile = Join-Path -Path $outputDir -ChildPath $item.outputFile
+                  Invoke-WebRequest -Uri $item.url -OutFile $outputFile -ErrorAction Stop
+                  Write-Host "Downloaded: $($item.url) to $outputFile"
+              } catch {
+                  Write-Host "Failed to download: $($item.url)"
+              }
+          }
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/*.csv
+          git commit -m "Update data files"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
