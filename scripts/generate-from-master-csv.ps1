@@ -30,8 +30,8 @@ try {
     $data = Import-Csv -Path $csvFilePath
     Write-Host "End   reading: $csvFilePath"
 
-    # Take only the first 10 entries (for debugging / running locally)
-    $data = $data | Select-Object -First 10
+    ## Take only the first 10 entries (for debugging / running locally)
+    #$data = $data | Select-Object -First 10
 
     # Process each row and create JSON files
     $rowIndex = 0
