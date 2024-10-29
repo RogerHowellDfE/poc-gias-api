@@ -21,7 +21,7 @@ If (-Not (Test-Path -Path $jsonDirectory)) {
 }
 
 # Initialize variables
-$listDataHtmlString = ""
+$listDataHtmlBuilder = New-Object -TypeName System.Text.StringBuilder
 $validUrns = @{}
 $urnsInCsv = @{}
 
@@ -53,7 +53,7 @@ try {
         Write-Debug "Begin converting to JSON: $csvFilePath with URN $urn to $jsonFile"
         $json = $row | ConvertTo-Json -Depth 100
         Write-Debug "End   converting to JSON: $csvFilePath with URN $urn to $jsonFile"
-        
+
         Write-Debug "Begin writing JSON file: $jsonFile"
         $json | Set-Content -Path $jsonFile -Force
         Write-Debug "End   writing JSON file: $jsonFile"
@@ -77,11 +77,12 @@ try {
         $htmlContent | Out-File -FilePath $urnHtmlFile -Encoding utf8
 
         # Append URN, Name, and Link to HTML list
-        $listDataHtmlString += "<li>URN: $urn - Name: $name - <a href='$jsonLink'>JSON File</a> - <a href='$htmlLink'>HTML File</a></li>`n"
+        [void]$listDataHtmlBuilder.AppendLine("<li>URN: $urn - Name: $name - <a href='$jsonLink'>JSON File</a> - <a href='$htmlLink'>HTML File</a></li>")
     }
 
+    # Replace the placeholder in the template with the generated HTML list
     $template = Get-Content -Path $templateFile
-    $template = $template -replace "<!-- list placeholder -->", $listDataHtmlString
+    $template = $template -replace "<!-- list placeholder -->", $listDataHtmlBuilder.ToString()
     Write-Host "End   generating HTML content"
 
     Write-Host "Saving to $outputFile"
