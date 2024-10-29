@@ -111,7 +111,7 @@ jobs:
         run: |
           $templateFile = "docs/index.html.template"
           $outputFile = "docs/index.html"
-          $jsonDirectory = "docs/data/establishment"
+          $jsonDirectory = "docs/establishment"
           $urnTemplateFile = "docs/establishment.html.template"
           $htmlDirectory = "docs/establishment"
 
