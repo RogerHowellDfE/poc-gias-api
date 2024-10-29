@@ -1,79 +1,91 @@
 ﻿$dataDir = "docs/data"
 $csvFilePath = "docs/data/edubasealldata.csv"
-
 $templateFile = "docs/index.html.template"
 $outputFile = "docs/index.html"
 $jsonDirectory = "docs/establishment"
 $urnTemplateFile = "docs/establishment.html.template"
 $htmlDirectory = "docs/establishment"
 
+# Ensure the input CSV file exists
+If (-Not (Test-Path -Path $csvFilePath)) {
+    Write-Host "CSV file not found: $csvFilePath"
+    Exit
+}
 
-
-# Ensure the HTML directory exists
+# Ensure the directories exists
 If (-Not (Test-Path -Path $htmlDirectory)) {
     New-Item -ItemType Directory -Path $htmlDirectory
 }
+If (-Not (Test-Path -Path $jsonDirectory)) {
+    New-Item -ItemType Directory -Path $jsonDirectory
+}
+
+# Initialize variables
+$listDataHtmlString = ""
+$validUrns = @{}
+$urnsInCsv = @{}
 
 try {
-    Write-Host "Begin reading:  $csvFilePath"
+    Write-Host "Begin reading: $csvFilePath"
     $data = Import-Csv -Path $csvFilePath
-    Write-Host "End reading: $csvFilePath"
+    Write-Host "End   reading: $csvFilePath"
 
     # Take only the first 10 entries (for debugging / running locally)
     $data = $data | Select-Object -First 10
-
-    # Create a hashset of all URNs in the CSV file for quick lookup
-    $urnsInCsv = @{}
 
     # Process each row and create JSON files
     $rowIndex = 0
     foreach ($row in $data) {
         $rowIndex++
         if ($rowIndex % 1000 -eq 0) {
-            Write-Host "Processing row ${rowIndex} of $($data.Length)"
+            Write-Host "Processing row $rowIndex of $($data.Length)"
         }
 
         $urn = $row.URN
-        $urnsInCsv[$urn] = $true
-        $jsonFile = Join-Path -Path $jsonDirectory -ChildPath ($urn + ".json")
+        if (-not $urn) {
+            Write-Warning "Skipping row $rowIndex due to missing URN"
+            continue
+        }
 
+        $urnsInCsv[$urn] = $true
+
+        $jsonFile = Join-Path -Path $jsonDirectory -ChildPath ($urn + ".json")
         Write-Debug "Begin converting to JSON: $csvFilePath with URN $urn to $jsonFile"
         $json = $row | ConvertTo-Json -Depth 100
-        Write-Debug "End converting to JSON: $csvFilePath with URN $urn to $jsonFile"
-
+        Write-Debug "End   converting to JSON: $csvFilePath with URN $urn to $jsonFile"
+        
         Write-Debug "Begin writing JSON file: $jsonFile"
-        Set-Content -Path $jsonFile -Value $json
-        Write-Debug "End writing JSON file: $jsonFile"
+        $json | Set-Content -Path $jsonFile -Force
+        Write-Debug "End   writing JSON file: $jsonFile"
 
+        $name = $row."EstablishmentName"
+        if (-not $name) {
+            Write-Warning "Skipping row $rowIndex due to missing EstablishmentName"
+            continue
+        }
 
-        # Extract necessary fields from the JSON content
-        $urn = $json.URN
-        $name = $json."EstablishmentName"
-        $jsonLink = "./data/establishment/$($jsonFile.Name)"
+        $jsonLink = "./data/establishment/$($urn).json"
         $htmlLink = "./establishment/$($urn).html"
-
-        # Store valid URNs
         $validUrns[$urn] = $true
 
         # Generate the individual HTML file using the template
         $htmlTemplate = Get-Content -Path $urnTemplateFile
         $htmlContent = $htmlTemplate -replace "<!-- Title Placeholder -->", "Establishment $name"
         $htmlContent = $htmlContent -replace "<!-- Data Placeholder -->", ($json | ConvertTo-Json -Depth 100 | Out-String)
-
         $urnHtmlFile = Join-Path -Path $htmlDirectory -ChildPath ($urn + ".html")
         $htmlContent | Out-File -FilePath $urnHtmlFile -Encoding utf8
 
         # Append URN, Name, and Link to HTML list
         $listDataHtmlString += "<li>URN: $urn - Name: $name - <a href='$jsonLink'>JSON File</a> - <a href='$htmlLink'>HTML File</a></li>`n"
-
     }
 
     $template = Get-Content -Path $templateFile
     $template = $template -replace "<!-- list placeholder -->", $listDataHtmlString
     Write-Host "End   generating HTML content"
 
-    $htmlContent = $template
-    $htmlContent | Set-Content -Path $outputFile
+    Write-Host "Saving to $outputFile"
+    $template | Set-Content -Path $outputFile
+    Write-Host "Saved  to $outputFile"
     Write-Host "Generated HTML file: $outputFile"
 
     # Remove JSON files for URNs that are no longer present in the CSV
@@ -95,7 +107,6 @@ try {
             Remove-Item -Path $htmlFile.FullName
         }
     }
-
 } catch {
     Write-Host "Failed to convert: $csvFilePath"
     Write-Host $_.Exception.Message
