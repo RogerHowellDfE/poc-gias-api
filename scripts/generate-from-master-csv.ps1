@@ -64,14 +64,15 @@ try {
             continue
         }
 
-        $jsonLink = "./data/establishment/$($urn).json"
+        $jsonLink = "./establishment/$($urn).json"
         $htmlLink = "./establishment/$($urn).html"
         $validUrns[$urn] = $true
 
         # Generate the individual HTML file using the template
         $htmlTemplate = Get-Content -Path $urnTemplateFile
         $htmlContent = $htmlTemplate -replace "<!-- Title Placeholder -->", "Establishment $name"
-        $htmlContent = $htmlContent -replace "<!-- Data Placeholder -->", ($json | ConvertTo-Json -Depth 100 | Out-String)
+        #$htmlContent = $htmlContent -replace "<!-- Data Placeholder -->", ($json | ConvertFrom-Json | ConvertTo-Html -Fragment)
+        $htmlContent = $htmlContent -replace "<!-- Data Placeholder -->", ($json)
         $urnHtmlFile = Join-Path -Path $htmlDirectory -ChildPath ($urn + ".html")
         $htmlContent | Out-File -FilePath $urnHtmlFile -Encoding utf8
 
