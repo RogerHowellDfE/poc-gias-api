@@ -41,6 +41,16 @@
   </header>
   <div class="govuk-width-container">
     <main class="govuk-main-wrapper" id="main-content">
+    <div class="govuk-phase-banner">
+      <p class="govuk-phase-banner__content">
+        <strong class="govuk-tag govuk-phase-banner__content__tag">
+          Prototype
+        </strong>
+        <span class="govuk-phase-banner__text">
+          This is a prototype proof-of-concept, and is unsupported. Do not actively use this.
+        </span>
+      </p>
+    </div>
       <h1 class="govuk-heading-xl">GIAS Data</h1>
     <ul class="govuk-list govuk-list--bullet">
       <li><a href="./data/edubasealldata.csv">edubasealldata.csv</a></li>
