@@ -70,9 +70,14 @@ try {
 
         # Generate the individual HTML file using the template
         $htmlTemplate = Get-Content -Path $urnTemplateFile
+
+        foreach ($key in $row.PSObject.Properties.Name) {
+            $value = $row.$key
+            $placeholder = "<!-- $key Placeholder -->"
+            $htmlTemplate = $htmlTemplate -replace [regex]::Escape($placeholder), $value
+        }
+
         $htmlContent = $htmlTemplate -replace "<!-- Title Placeholder -->", "Establishment $name"
-        #$htmlContent = $htmlContent -replace "<!-- Data Placeholder -->", ($json | ConvertFrom-Json | ConvertTo-Html -Fragment)
-        $htmlContent = $htmlContent -replace "<!-- Data Placeholder -->", ($json)
         $urnHtmlFile = Join-Path -Path $htmlDirectory -ChildPath ($urn + ".html")
         $htmlContent | Out-File -FilePath $urnHtmlFile -Encoding utf8
 
