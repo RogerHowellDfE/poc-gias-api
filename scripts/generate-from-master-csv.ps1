@@ -1,9 +1,9 @@
 ﻿$dataDir = "docs/data"
 $csvFilePath = "docs/data/edubasealldata.csv"
-$templateFile = "docs/index.html.template"
+$templateFile = "docs/index.template.html"
 $outputFile = "docs/index.html"
 $jsonDirectory = "docs/establishment"
-$urnTemplateFile = "docs/establishment.html.template"
+$urnTemplateFile = "docs/establishment.template.html"
 $htmlDirectory = "docs/establishment"
 
 # Ensure the input CSV file exists
