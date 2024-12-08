@@ -57,7 +57,7 @@
   "OfstedLastInsp": "14-06-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "18-07-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Morecambe Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "345523",
   "Northing": "463236",
   "MSOA (name)": "Lancaster 020",
-  "LSOA (name)": "Lancaster 020E",
+  "LSOA (name)": "Lancaster 020D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006871",
-  "LSOA (code)": "E01025165",
+  "LSOA (code)": "E01025164",
   "FSM": "97",
   "AccreditationExpiryDate": ""
 }

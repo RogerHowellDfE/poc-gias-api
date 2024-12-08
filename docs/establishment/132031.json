@@ -57,7 +57,7 @@
   "OfstedLastInsp": "16-01-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "18-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Bushmead Road",
   "Locality": "Eaton Socon",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "516441",
   "Northing": "259285",
   "MSOA (name)": "Huntingdonshire 022",
-  "LSOA (name)": "Huntingdonshire 022C",
+  "LSOA (name)": "Huntingdonshire 022D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003774",
-  "LSOA (code)": "E01018179",
+  "LSOA (code)": "E01018180",
   "FSM": "99",
   "AccreditationExpiryDate": ""
 }

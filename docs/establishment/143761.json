@@ -57,7 +57,7 @@
   "OfstedLastInsp": "23-10-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Global Avenue",
   "Locality": "Phoenix House",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "428217",
   "Northing": "430096",
   "MSOA (name)": "Leeds 090",
-  "LSOA (name)": "Leeds 090B",
+  "LSOA (name)": "Leeds 090D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002419",
-  "LSOA (code)": "E01011317",
+  "LSOA (code)": "E01011321",
   "FSM": "0",
   "AccreditationExpiryDate": ""
 }

@@ -57,7 +57,7 @@
   "OfstedLastInsp": "25-01-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "28-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Styles Close",
   "Locality": "Hampton Magna",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "425926",
   "Northing": "265026",
   "MSOA (name)": "Warwick 014",
-  "LSOA (name)": "Warwick 014D",
+  "LSOA (name)": "Warwick 014C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006532",
-  "LSOA (code)": "E01031268",
+  "LSOA (code)": "E01031267",
   "FSM": "27",
   "AccreditationExpiryDate": ""
 }

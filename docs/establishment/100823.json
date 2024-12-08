@@ -57,7 +57,7 @@
   "OfstedLastInsp": "17-10-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Dulwich Village",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "533049",
   "Northing": "174311",
   "MSOA (name)": "Southwark 031",
-  "LSOA (name)": "Southwark 031A",
+  "LSOA (name)": "Southwark 031B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000837",
-  "LSOA (code)": "E01004069",
+  "LSOA (code)": "E01004070",
   "FSM": "20",
   "AccreditationExpiryDate": ""
 }

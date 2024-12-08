@@ -57,7 +57,7 @@
   "OfstedLastInsp": "12-10-2021",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "The Links",
   "Locality": "Belmont",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "430543",
   "Northing": "543496",
   "MSOA (name)": "County Durham 028",
-  "LSOA (name)": "County Durham 028B",
+  "LSOA (name)": "County Durham 028A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004312",
-  "LSOA (code)": "E01020683",
+  "LSOA (code)": "E01020682",
   "FSM": "33",
   "AccreditationExpiryDate": ""
 }

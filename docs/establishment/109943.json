@@ -57,7 +57,7 @@
   "OfstedLastInsp": "29-01-2020",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "07-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Church Lane",
   "Locality": "Wexham",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "499154",
   "Northing": "181492",
   "MSOA (name)": "Slough 005",
-  "LSOA (name)": "Slough 005D",
+  "LSOA (name)": "Slough 005F",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003411",
-  "LSOA (code)": "E01016519",
+  "LSOA (code)": "E01016521",
   "FSM": "146",
   "AccreditationExpiryDate": ""
 }

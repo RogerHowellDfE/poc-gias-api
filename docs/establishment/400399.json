@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "18-07-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Plas Kynaston Lane",
   "Locality": "Cefn Mawr",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "328011",
   "Northing": "341970",
   "MSOA (name)": "Wrexham 017",
-  "LSOA (name)": "Wrexham 017C",
+  "LSOA (name)": "Wrexham 017B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "W02000094",
-  "LSOA (code)": "W01000356",
+  "LSOA (code)": "W01000355",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

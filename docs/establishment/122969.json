@@ -57,7 +57,7 @@
   "OfstedLastInsp": "14-06-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "03-12-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Whitehouse Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "451204",
   "Northing": "205180",
   "MSOA (name)": "Oxford 012",
-  "LSOA (name)": "Oxford 012A",
+  "LSOA (name)": "Oxford 012C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005951",
-  "LSOA (code)": "E01028541",
+  "LSOA (code)": "E01028543",
   "FSM": "0",
   "AccreditationExpiryDate": ""
 }

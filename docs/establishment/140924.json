@@ -57,7 +57,7 @@
   "OfstedLastInsp": "28-02-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Boldon Lane",
   "Locality": "Cleadon",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "437967",
   "Northing": "562306",
   "MSOA (name)": "South Tyneside 022",
-  "LSOA (name)": "South Tyneside 022C",
+  "LSOA (name)": "South Tyneside 022B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001789",
-  "LSOA (code)": "E01008619",
+  "LSOA (code)": "E01008618",
   "FSM": "6",
   "AccreditationExpiryDate": ""
 }

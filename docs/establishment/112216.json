@@ -57,7 +57,7 @@
   "OfstedLastInsp": "20-04-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Arnside Road",
   "Locality": "Harraby",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "342169",
   "Northing": "554295",
   "MSOA (name)": "Carlisle 011",
-  "LSOA (name)": "Carlisle 011E",
+  "LSOA (name)": "Carlisle 011D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003997",
-  "LSOA (code)": "E01019222",
+  "LSOA (code)": "E01019221",
   "FSM": "98",
   "AccreditationExpiryDate": ""
 }

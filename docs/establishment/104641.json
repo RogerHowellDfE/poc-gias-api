@@ -57,7 +57,7 @@
   "OfstedLastInsp": "03-07-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "04-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Hall Lane",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "336277",
   "Northing": "390631",
   "MSOA (name)": "Liverpool 031",
-  "LSOA (name)": "Liverpool 031C",
+  "LSOA (name)": "Liverpool 031B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001377",
-  "LSOA (code)": "E01006748",
+  "LSOA (code)": "E01006747",
   "FSM": "75",
   "AccreditationExpiryDate": ""
 }

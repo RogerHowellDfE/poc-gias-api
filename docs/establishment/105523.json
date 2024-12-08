@@ -57,7 +57,7 @@
   "OfstedLastInsp": "23-04-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Grey Mare Lane",
   "Locality": "Beswick",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "387124",
   "Northing": "397971",
   "MSOA (name)": "Manchester 015",
-  "LSOA (name)": "Manchester 015C",
+  "LSOA (name)": "Manchester 015D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001059",
-  "LSOA (code)": "E01005105",
+  "LSOA (code)": "E01005106",
   "FSM": "134",
   "AccreditationExpiryDate": ""
 }

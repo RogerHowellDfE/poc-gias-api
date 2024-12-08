@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "01-12-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Masham Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "426241",
   "Northing": "487609",
   "MSOA (name)": "Hambleton 006",
-  "LSOA (name)": "",
+  "LSOA (name)": "Hambleton 006B",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005755",
-  "LSOA (code)": "999999999",
+  "LSOA (code)": "E01027588",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

@@ -57,7 +57,7 @@
   "OfstedLastInsp": "30-04-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Heronswood Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "384293",
   "Northing": "274747",
   "MSOA (name)": "Wyre Forest 010",
-  "LSOA (name)": "Wyre Forest 010B",
+  "LSOA (name)": "Wyre Forest 010E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006776",
-  "LSOA (code)": "E01032419",
+  "LSOA (code)": "E01032422",
   "FSM": "97",
   "AccreditationExpiryDate": ""
 }

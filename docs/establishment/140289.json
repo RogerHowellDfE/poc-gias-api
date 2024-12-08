@@ -57,7 +57,7 @@
   "OfstedLastInsp": "15-09-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "13-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Pepperbox Hill",
   "Locality": "Peatmoor",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "411490",
   "Northing": "186604",
   "MSOA (name)": "Swindon 011",
-  "LSOA (name)": "Swindon 011B",
+  "LSOA (name)": "Swindon 011A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003222",
-  "LSOA (code)": "E01015563",
+  "LSOA (code)": "E01015562",
   "FSM": "38",
   "AccreditationExpiryDate": ""
 }

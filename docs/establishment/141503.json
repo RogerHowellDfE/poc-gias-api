@@ -57,7 +57,7 @@
   "OfstedLastInsp": "22-05-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "28-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Windmill Way",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "431725",
   "Northing": "565650",
   "MSOA (name)": "South Tyneside 009",
-  "LSOA (name)": "South Tyneside 009B",
+  "LSOA (name)": "South Tyneside 009A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001776",
-  "LSOA (code)": "E01008652",
+  "LSOA (code)": "E01008639",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

@@ -57,7 +57,7 @@
   "OfstedLastInsp": "27-06-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Stainland Road",
   "Locality": "Stainland",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "407683",
   "Northing": "419321",
   "MSOA (name)": "Calderdale 026",
-  "LSOA (name)": "Calderdale 026A",
+  "LSOA (name)": "Calderdale 026B",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002269",
-  "LSOA (code)": "E01010896",
+  "LSOA (code)": "E01010897",
   "FSM": "31",
   "AccreditationExpiryDate": ""
 }

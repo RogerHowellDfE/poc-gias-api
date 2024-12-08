@@ -57,7 +57,7 @@
   "OfstedLastInsp": "14-01-2020",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "22-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Rutherglen Road",
   "Locality": "Red House Estate",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "437186",
   "Northing": "559541",
   "MSOA (name)": "Sunderland 004",
-  "LSOA (name)": "Sunderland 004D",
+  "LSOA (name)": "Sunderland 004E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001794",
-  "LSOA (code)": "E01008821",
+  "LSOA (code)": "E01008822",
   "FSM": "251",
   "AccreditationExpiryDate": ""
 }

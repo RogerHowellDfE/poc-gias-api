@@ -57,7 +57,7 @@
   "OfstedLastInsp": "25-05-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "16-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Beaumont Avenue",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "548441",
   "Northing": "218972",
   "MSOA (name)": "East Hertfordshire 008",
-  "LSOA (name)": "East Hertfordshire 008C",
+  "LSOA (name)": "East Hertfordshire 008E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004885",
-  "LSOA (code)": "E01023458",
+  "LSOA (code)": "E01023460",
   "FSM": "54",
   "AccreditationExpiryDate": ""
 }

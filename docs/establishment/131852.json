@@ -57,7 +57,7 @@
   "OfstedLastInsp": "06-03-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "04-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "The Pastures",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "485618",
   "Northing": "194157",
   "MSOA (name)": "Buckinghamshire 038",
-  "LSOA (name)": "Buckinghamshire 038A",
+  "LSOA (name)": "Buckinghamshire 038D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003701",
-  "LSOA (code)": "E01017857",
+  "LSOA (code)": "E01017860",
   "FSM": "162",
   "AccreditationExpiryDate": ""
 }

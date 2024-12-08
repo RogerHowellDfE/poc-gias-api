@@ -57,7 +57,7 @@
   "OfstedLastInsp": "04-05-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Nightingale Lane",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "541346",
   "Northing": "168987",
   "MSOA (name)": "Bromley 016",
-  "LSOA (name)": "Bromley 016A",
+  "LSOA (name)": "Bromley 016B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000142",
-  "LSOA (code)": "E01000646",
+  "LSOA (code)": "E01000647",
   "FSM": "28",
   "AccreditationExpiryDate": ""
 }

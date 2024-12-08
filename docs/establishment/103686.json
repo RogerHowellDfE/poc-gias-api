@@ -57,7 +57,7 @@
   "OfstedLastInsp": "14-10-2021",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "04-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Coat of Arms Bridge Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "432544",
   "Northing": "276709",
   "MSOA (name)": "Coventry 041",
-  "LSOA (name)": "Coventry 041A",
+  "LSOA (name)": "Coventry 041B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001998",
-  "LSOA (code)": "E01009666",
+  "LSOA (code)": "E01009667",
   "FSM": "36",
   "AccreditationExpiryDate": ""
 }

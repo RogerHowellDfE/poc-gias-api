@@ -57,7 +57,7 @@
   "OfstedLastInsp": "21-03-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "22-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Crompton Way",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "373041",
   "Northing": "410931",
   "MSOA (name)": "Bolton 010",
-  "LSOA (name)": "Bolton 010D",
+  "LSOA (name)": "Bolton 010B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000993",
-  "LSOA (code)": "E01004929",
+  "LSOA (code)": "E01004926",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

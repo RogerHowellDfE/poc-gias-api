@@ -57,7 +57,7 @@
   "OfstedLastInsp": "20-06-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Nene Way",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "531273",
   "Northing": "272894",
   "MSOA (name)": "Huntingdonshire 011",
-  "LSOA (name)": "Huntingdonshire 011D",
+  "LSOA (name)": "Huntingdonshire 011E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003763",
-  "LSOA (code)": "E01018164",
+  "LSOA (code)": "E01018165",
   "FSM": "57",
   "AccreditationExpiryDate": ""
 }

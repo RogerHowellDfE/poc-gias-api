@@ -57,7 +57,7 @@
   "OfstedLastInsp": "29-06-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "26-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Francis Avenue",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "465643",
   "Northing": "99642",
   "MSOA (name)": "Portsmouth 019",
-  "LSOA (name)": "Portsmouth 019E",
+  "LSOA (name)": "Portsmouth 019B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003542",
-  "LSOA (code)": "E01017030",
+  "LSOA (code)": "E01017025",
   "FSM": "60",
   "AccreditationExpiryDate": ""
 }

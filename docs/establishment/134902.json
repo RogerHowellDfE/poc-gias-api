@@ -57,7 +57,7 @@
   "OfstedLastInsp": "19-09-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Tadworth Court",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "523791",
   "Northing": "156605",
   "MSOA (name)": "Reigate and Banstead 006",
-  "LSOA (name)": "Reigate and Banstead 006D",
+  "LSOA (name)": "Reigate and Banstead 006B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006380",
-  "LSOA (code)": "E01030638",
+  "LSOA (code)": "E01030636",
   "FSM": "0",
   "AccreditationExpiryDate": ""
 }

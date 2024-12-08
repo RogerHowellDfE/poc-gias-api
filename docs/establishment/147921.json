@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "06-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Coisley Hill",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "441036",
   "Northing": "384617",
   "MSOA (name)": "Sheffield 049",
-  "LSOA (name)": "Sheffield 049C",
+  "LSOA (name)": "Sheffield 049B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001659",
-  "LSOA (code)": "E01007968",
+  "LSOA (code)": "E01007966",
   "FSM": "210",
   "AccreditationExpiryDate": ""
 }

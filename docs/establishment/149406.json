@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "25-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Prince Edwin Street",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "335298",
   "Northing": "391753",
   "MSOA (name)": "Liverpool 023",
-  "LSOA (name)": "",
+  "LSOA (name)": "Liverpool 023D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001369",
-  "LSOA (code)": "999999999",
+  "LSOA (code)": "E01006648",
   "FSM": "105",
   "AccreditationExpiryDate": ""
 }

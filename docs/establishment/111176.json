@@ -57,7 +57,7 @@
   "OfstedLastInsp": "25-05-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "20-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Gorsewood Road",
   "Locality": "Murdishaw",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "355996",
   "Northing": "380990",
   "MSOA (name)": "Halton 014",
-  "LSOA (name)": "Halton 014A",
+  "LSOA (name)": "Halton 014B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002587",
-  "LSOA (code)": "E01012432",
+  "LSOA (code)": "E01012433",
   "FSM": "117",
   "AccreditationExpiryDate": ""
 }

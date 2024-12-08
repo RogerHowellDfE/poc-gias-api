@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "09-09-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Weasenham Lane",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "546142",
   "Northing": "308483",
   "MSOA (name)": "Fenland 003",
-  "LSOA (name)": "Fenland 003B",
+  "LSOA (name)": "Fenland 003H",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003744",
-  "LSOA (code)": "E01018070",
+  "LSOA (code)": "E01033111",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

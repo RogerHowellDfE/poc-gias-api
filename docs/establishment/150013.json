@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "11-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "4 Magdalen Lane",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "415372",
   "Northing": "92834",
   "MSOA (name)": "Bournemouth, Christchurch and Poole 031",
-  "LSOA (name)": "Bournemouth, Christchurch and Poole 031F",
+  "LSOA (name)": "Bournemouth, Christchurch and Poole 031D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004241",
-  "LSOA (code)": "E01034280",
+  "LSOA (code)": "E01020367",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

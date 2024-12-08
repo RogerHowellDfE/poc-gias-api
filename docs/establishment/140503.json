@@ -57,7 +57,7 @@
   "OfstedLastInsp": "29-11-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Manor Farm Way",
   "Locality": "Coulby Newham",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "450155",
   "Northing": "514951",
   "MSOA (name)": "Middlesbrough 019",
-  "LSOA (name)": "Middlesbrough 019A",
+  "LSOA (name)": "Middlesbrough 019B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002514",
-  "LSOA (code)": "E01012030",
+  "LSOA (code)": "E01012031",
   "FSM": "119",
   "AccreditationExpiryDate": ""
 }

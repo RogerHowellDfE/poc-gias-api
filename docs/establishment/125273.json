@@ -57,7 +57,7 @@
   "OfstedLastInsp": "02-11-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "18-07-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Balcombe Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "529037",
   "Northing": "143173",
   "MSOA (name)": "Reigate and Banstead 017",
-  "LSOA (name)": "Reigate and Banstead 017D",
+  "LSOA (name)": "Reigate and Banstead 017B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006391",
-  "LSOA (code)": "E01030583",
+  "LSOA (code)": "E01030581",
   "FSM": "244",
   "AccreditationExpiryDate": ""
 }

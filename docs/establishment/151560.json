@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "03-12-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Kewstoke Road",
   "Locality": "Kewstoke",
   "Address3": "Kewstoke Primary School",
@@ -115,7 +115,7 @@
   "Easting": "333760",
   "Northing": "163400",
   "MSOA (name)": "North Somerset 014",
-  "LSOA (name)": "",
+  "LSOA (name)": "North Somerset 014D",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003078",
-  "LSOA (code)": "999999999",
+  "LSOA (code)": "E01014774",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

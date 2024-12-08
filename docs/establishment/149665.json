@@ -57,7 +57,7 @@
   "OfstedLastInsp": "06-06-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "27-09-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Stone Lodge, Rothwell Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "",
   "Northing": "",
   "MSOA (name)": "North Northamptonshire 014",
-  "LSOA (name)": "North Northamptonshire 014E",
+  "LSOA (name)": "North Northamptonshire 014B",
   "InspectorateName (name)": "Ofsted",
   "SENStat": "26",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005641",
-  "LSOA (code)": "E01035412",
+  "LSOA (code)": "E01027125",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

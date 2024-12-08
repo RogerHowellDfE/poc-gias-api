@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "19-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Yew Tree Avenue",
   "Locality": "Rainham Road South",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "550480",
   "Northing": "185437",
   "MSOA (name)": "Barking and Dagenham 010",
-  "LSOA (name)": "Barking and Dagenham 010A",
+  "LSOA (name)": "Barking and Dagenham 010B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000011",
-  "LSOA (code)": "E01000035",
+  "LSOA (code)": "E01000036",
   "FSM": "15",
   "AccreditationExpiryDate": ""
 }

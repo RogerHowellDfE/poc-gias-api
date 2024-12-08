@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "01-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "43-45 Bloomsbury Square & 2 Southampton Place",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "530364",
   "Northing": "181581",
   "MSOA (name)": "Camden 028",
-  "LSOA (name)": "Camden 028C",
+  "LSOA (name)": "Camden 028B",
   "InspectorateName (name)": "ISI",
   "SENStat": "0",
   "SENNoStat": "7",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000193",
-  "LSOA (code)": "E01000918",
+  "LSOA (code)": "E01000914",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

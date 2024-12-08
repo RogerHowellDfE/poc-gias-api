@@ -57,7 +57,7 @@
   "OfstedLastInsp": "03-02-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "28-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Calmore Drive",
   "Locality": "Calmore",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "434294",
   "Northing": "114511",
   "MSOA (name)": "New Forest 002",
-  "LSOA (name)": "New Forest 002B",
+  "LSOA (name)": "New Forest 002C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004780",
-  "LSOA (code)": "E01023082",
+  "LSOA (code)": "E01023083",
   "FSM": "66",
   "AccreditationExpiryDate": ""
 }

@@ -57,7 +57,7 @@
   "OfstedLastInsp": "21-09-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Roughwood Road",
   "Locality": "Wingfield Estate",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "440888",
   "Northing": "395359",
   "MSOA (name)": "Rotherham 009",
-  "LSOA (name)": "Rotherham 009E",
+  "LSOA (name)": "Rotherham 009F",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001586",
-  "LSOA (code)": "E01007732",
+  "LSOA (code)": "E01007733",
   "FSM": "80",
   "AccreditationExpiryDate": ""
 }

@@ -57,7 +57,7 @@
   "OfstedLastInsp": "28-02-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Barnhill Road",
   "Locality": "Brent",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "519973",
   "Northing": "186213",
   "MSOA (name)": "Brent 009",
-  "LSOA (name)": "Brent 009G",
+  "LSOA (name)": "Brent 009D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000101",
-  "LSOA (code)": "E01033932",
+  "LSOA (code)": "E01000483",
   "FSM": "116",
   "AccreditationExpiryDate": ""
 }

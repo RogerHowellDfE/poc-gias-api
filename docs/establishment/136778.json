@@ -57,7 +57,7 @@
   "OfstedLastInsp": "08-11-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Jockey Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "411636",
   "Northing": "295173",
   "MSOA (name)": "Birmingham 009",
-  "LSOA (name)": "Birmingham 009D",
+  "LSOA (name)": "Birmingham 009E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001835",
-  "LSOA (code)": "E01009466",
+  "LSOA (code)": "E01009471",
   "FSM": "95",
   "AccreditationExpiryDate": ""
 }

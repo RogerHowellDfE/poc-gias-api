@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "18-07-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Ffordd Llanbadarn",
   "Locality": "Llangawsai",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "259456",
   "Northing": "281081",
   "MSOA (name)": "Ceredigion 003",
-  "LSOA (name)": "Ceredigion 003F",
+  "LSOA (name)": "Ceredigion 003E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "W02000118",
-  "LSOA (code)": "W01001936",
+  "LSOA (code)": "W01001935",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

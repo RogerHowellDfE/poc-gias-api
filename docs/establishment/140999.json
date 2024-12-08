@@ -57,7 +57,7 @@
   "OfstedLastInsp": "26-06-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Nightingale Lane",
   "Locality": "Bickley",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "541374",
   "Northing": "169020",
   "MSOA (name)": "Bromley 016",
-  "LSOA (name)": "Bromley 016A",
+  "LSOA (name)": "Bromley 016B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000142",
-  "LSOA (code)": "E01000646",
+  "LSOA (code)": "E01000647",
   "FSM": "41",
   "AccreditationExpiryDate": ""
 }

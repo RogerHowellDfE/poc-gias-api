@@ -57,7 +57,7 @@
   "OfstedLastInsp": "25-04-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Hanmore Road",
   "Locality": "Chineham",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "465805",
   "Northing": "155445",
   "MSOA (name)": "Basingstoke and Deane 006",
-  "LSOA (name)": "Basingstoke and Deane 006C",
+  "LSOA (name)": "Basingstoke and Deane 006A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004680",
-  "LSOA (code)": "E01022497",
+  "LSOA (code)": "E01022495",
   "FSM": "42",
   "AccreditationExpiryDate": ""
 }

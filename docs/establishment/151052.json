@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "12-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Drovers Lane",
   "Locality": "",
   "Address3": "St Catherine's Catholic Primary School",
@@ -115,7 +115,7 @@
   "Easting": "351304",
   "Northing": "530599",
   "MSOA (name)": "Eden 004",
-  "LSOA (name)": "Eden 004F",
+  "LSOA (name)": "Eden 004E",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004011",
-  "LSOA (code)": "E01019331",
+  "LSOA (code)": "E01019330",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

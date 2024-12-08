@@ -57,7 +57,7 @@
   "OfstedLastInsp": "",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "06-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Wotton House",
   "Locality": "Horton Road",
   "Address3": "Gloucester",
@@ -115,7 +115,7 @@
   "Easting": "384467",
   "Northing": "218835",
   "MSOA (name)": "Gloucester 002",
-  "LSOA (name)": "Gloucester 002C",
+  "LSOA (name)": "Gloucester 002D",
   "InspectorateName (name)": "ISI",
   "SENStat": "22",
   "SENNoStat": "5",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004637",
-  "LSOA (code)": "E01022311",
+  "LSOA (code)": "E01022312",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

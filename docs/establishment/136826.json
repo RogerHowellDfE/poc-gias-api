@@ -57,7 +57,7 @@
   "OfstedLastInsp": "24-04-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "South Parkway",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "435538",
   "Northing": "435560",
   "MSOA (name)": "Leeds 050",
-  "LSOA (name)": "Leeds 050B",
+  "LSOA (name)": "Leeds 050A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002379",
-  "LSOA (code)": "E01011664",
+  "LSOA (code)": "E01011663",
   "FSM": "593",
   "AccreditationExpiryDate": ""
 }

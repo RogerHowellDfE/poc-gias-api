@@ -57,7 +57,7 @@
   "OfstedLastInsp": "01-11-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Margaret Street",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "518263",
   "Northing": "414032",
   "MSOA (name)": "North East Lincolnshire 001",
-  "LSOA (name)": "North East Lincolnshire 001G",
+  "LSOA (name)": "North East Lincolnshire 001F",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002726",
-  "LSOA (code)": "E01013180",
+  "LSOA (code)": "E01013179",
   "FSM": "77",
   "AccreditationExpiryDate": ""
 }

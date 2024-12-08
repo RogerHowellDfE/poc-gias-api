@@ -57,7 +57,7 @@
   "OfstedLastInsp": "23-01-2024",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Gables Road",
   "Locality": "Willand",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "303648",
   "Northing": "110923",
   "MSOA (name)": "Mid Devon 006",
-  "LSOA (name)": "Mid Devon 006C",
+  "LSOA (name)": "Mid Devon 006D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004169",
-  "LSOA (code)": "E01020062",
+  "LSOA (code)": "E01020064",
   "FSM": "48",
   "AccreditationExpiryDate": ""
 }

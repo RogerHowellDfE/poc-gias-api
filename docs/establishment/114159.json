@@ -57,7 +57,7 @@
   "OfstedLastInsp": "26-04-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "29-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Rectory Row",
   "Locality": "Sedgefield",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "435545",
   "Northing": "528673",
   "MSOA (name)": "County Durham 054",
-  "LSOA (name)": "County Durham 054C",
+  "LSOA (name)": "County Durham 054D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004339",
-  "LSOA (code)": "E01020829",
+  "LSOA (code)": "E01020830",
   "FSM": "24",
   "AccreditationExpiryDate": ""
 }

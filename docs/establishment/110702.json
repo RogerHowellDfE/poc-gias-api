@@ -57,7 +57,7 @@
   "OfstedLastInsp": "10-11-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "27-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Longsands Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "519469",
   "Northing": "260798",
   "MSOA (name)": "Huntingdonshire 019",
-  "LSOA (name)": "Huntingdonshire 019B",
+  "LSOA (name)": "Huntingdonshire 019D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003771",
-  "LSOA (code)": "E01018188",
+  "LSOA (code)": "E01018190",
   "FSM": "80",
   "AccreditationExpiryDate": ""
 }

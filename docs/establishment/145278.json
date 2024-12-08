@@ -57,7 +57,7 @@
   "OfstedLastInsp": "10-11-2021",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "07-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Potters Gate",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "483463",
   "Northing": "146755",
   "MSOA (name)": "Waverley 003",
-  "LSOA (name)": "Waverley 003B",
+  "LSOA (name)": "Waverley 003A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006441",
-  "LSOA (code)": "E01030885",
+  "LSOA (code)": "E01030884",
   "FSM": "63",
   "AccreditationExpiryDate": ""
 }

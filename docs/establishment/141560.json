@@ -57,7 +57,7 @@
   "OfstedLastInsp": "16-03-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "02-12-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "240 Halesowen Road",
   "Locality": "Cradley Heath",
   "Address3": "West Midlands",
@@ -115,7 +115,7 @@
   "Easting": "395511",
   "Northing": "286319",
   "MSOA (name)": "Sandwell 035",
-  "LSOA (name)": "Sandwell 035B",
+  "LSOA (name)": "Sandwell 035C",
   "InspectorateName (name)": "Ofsted",
   "SENStat": "9",
   "SENNoStat": "0",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002077",
-  "LSOA (code)": "E01009952",
+  "LSOA (code)": "E01009955",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

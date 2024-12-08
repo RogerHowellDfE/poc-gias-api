@@ -57,7 +57,7 @@
   "OfstedLastInsp": "12-12-2018",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "18-07-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Gunnergate Lane",
   "Locality": "Coulby Newham",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "451275",
   "Northing": "514556",
   "MSOA (name)": "Middlesbrough 019",
-  "LSOA (name)": "Middlesbrough 019D",
+  "LSOA (name)": "Middlesbrough 019C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002514",
-  "LSOA (code)": "E01012033",
+  "LSOA (code)": "E01012032",
   "FSM": "31",
   "AccreditationExpiryDate": ""
 }

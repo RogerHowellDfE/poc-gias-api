@@ -57,7 +57,7 @@
   "OfstedLastInsp": "26-06-2019",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Cherry Lane",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "376293",
   "Northing": "390794",
   "MSOA (name)": "Trafford 019",
-  "LSOA (name)": "Trafford 019D",
+  "LSOA (name)": "Trafford 019E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001277",
-  "LSOA (code)": "E01006167",
+  "LSOA (code)": "E01006168",
   "FSM": "39",
   "AccreditationExpiryDate": ""
 }

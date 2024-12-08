@@ -57,7 +57,7 @@
   "OfstedLastInsp": "18-10-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Keresforth Road",
   "Locality": "Dodworth",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "432197",
   "Northing": "404935",
   "MSOA (name)": "Barnsley 019",
-  "LSOA (name)": "Barnsley 019B",
+  "LSOA (name)": "Barnsley 019D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001527",
-  "LSOA (code)": "E01007383",
+  "LSOA (code)": "E01007385",
   "FSM": "37",
   "AccreditationExpiryDate": ""
 }

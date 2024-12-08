@@ -57,7 +57,7 @@
   "OfstedLastInsp": "28-11-2023",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Fredericks Road",
   "Locality": "",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "642443",
   "Northing": "289863",
   "MSOA (name)": "East Suffolk 010",
-  "LSOA (name)": "East Suffolk 010C",
+  "LSOA (name)": "East Suffolk 010B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006311",
-  "LSOA (code)": "E01030225",
+  "LSOA (code)": "E01030224",
   "FSM": "9",
   "AccreditationExpiryDate": ""
 }

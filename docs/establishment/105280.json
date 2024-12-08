@@ -57,7 +57,7 @@
   "OfstedLastInsp": "18-11-2022",
   "OfstedSpecialMeasures (code)": "0",
   "OfstedSpecialMeasures (name)": "Not applicable",
-  "LastChangedDate": "22-10-2024",
+  "LastChangedDate": "05-12-2024",
   "Street": "Darwen Road",
   "Locality": "Bromley Cross",
   "Address3": "",
@@ -115,7 +115,7 @@
   "Easting": "372686",
   "Northing": "412753",
   "MSOA (name)": "Bolton 002",
-  "LSOA (name)": "Bolton 002D",
+  "LSOA (name)": "Bolton 002E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -135,7 +135,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000985",
-  "LSOA (code)": "E01004806",
+  "LSOA (code)": "E01004810",
   "FSM": "0",
   "AccreditationExpiryDate": ""
 }
