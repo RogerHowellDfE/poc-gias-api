@@ -54,7 +54,7 @@
   "UKPRN": "10078175",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Grey Mare Lane",
   "Locality": "Beswick",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "387124",
   "Northing": "397971",
   "MSOA (name)": "Manchester 015",
-  "LSOA (name)": "Manchester 015D",
+  "LSOA (name)": "Manchester 015C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001059",
-  "LSOA (code)": "E01005106",
+  "LSOA (code)": "E01005105",
   "FSM": "134",
   "AccreditationExpiryDate": ""
 }

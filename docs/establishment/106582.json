@@ -54,7 +54,7 @@
   "UKPRN": "10078937",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Keresforth Road",
   "Locality": "Dodworth",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "432197",
   "Northing": "404935",
   "MSOA (name)": "Barnsley 019",
-  "LSOA (name)": "Barnsley 019D",
+  "LSOA (name)": "Barnsley 019B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001527",
-  "LSOA (code)": "E01007385",
+  "LSOA (code)": "E01007383",
   "FSM": "37",
   "AccreditationExpiryDate": ""
 }

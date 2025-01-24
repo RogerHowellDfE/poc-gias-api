@@ -54,7 +54,7 @@
   "UKPRN": "10054180",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Gunnergate Lane",
   "Locality": "Coulby Newham",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "451275",
   "Northing": "514556",
   "MSOA (name)": "Middlesbrough 019",
-  "LSOA (name)": "Middlesbrough 019C",
+  "LSOA (name)": "Middlesbrough 019D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002514",
-  "LSOA (code)": "E01012032",
+  "LSOA (code)": "E01012033",
   "FSM": "31",
   "AccreditationExpiryDate": ""
 }

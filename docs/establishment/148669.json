@@ -54,7 +54,7 @@
   "UKPRN": "10088919",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Prospect Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "484505",
   "Northing": "186980",
   "MSOA (name)": "Buckinghamshire 062",
-  "LSOA (name)": "Buckinghamshire 062F",
+  "LSOA (name)": "Buckinghamshire 062E",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003717",
-  "LSOA (code)": "E01017894",
+  "LSOA (code)": "E01017893",
   "FSM": "9",
   "AccreditationExpiryDate": ""
 }

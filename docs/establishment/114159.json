@@ -54,7 +54,7 @@
   "UKPRN": "10070823",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Rectory Row",
   "Locality": "Sedgefield",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "435545",
   "Northing": "528673",
   "MSOA (name)": "County Durham 054",
-  "LSOA (name)": "County Durham 054D",
+  "LSOA (name)": "County Durham 054C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004339",
-  "LSOA (code)": "E01020830",
+  "LSOA (code)": "E01020829",
   "FSM": "24",
   "AccreditationExpiryDate": ""
 }

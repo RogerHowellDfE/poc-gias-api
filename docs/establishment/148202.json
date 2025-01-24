@@ -54,7 +54,7 @@
   "UKPRN": "10087092",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Stainland Road",
   "Locality": "Stainland",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "407683",
   "Northing": "419321",
   "MSOA (name)": "Calderdale 026",
-  "LSOA (name)": "Calderdale 026B",
+  "LSOA (name)": "Calderdale 026A",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002269",
-  "LSOA (code)": "E01010897",
+  "LSOA (code)": "E01010896",
   "FSM": "31",
   "AccreditationExpiryDate": ""
 }

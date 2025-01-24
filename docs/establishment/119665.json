@@ -54,7 +54,7 @@
   "UKPRN": "10072653",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Unity Way",
   "Locality": "Rawtenstall",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "380878",
   "Northing": "423142",
   "MSOA (name)": "Rossendale 004",
-  "LSOA (name)": "Rossendale 004F",
+  "LSOA (name)": "Rossendale 004A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005281",
-  "LSOA (code)": "E01025387",
+  "LSOA (code)": "E01025356",
   "FSM": "26",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10089548",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Hookstone Drive",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "431712",
   "Northing": "454330",
   "MSOA (name)": "Harrogate 017",
-  "LSOA (name)": "Harrogate 017A",
+  "LSOA (name)": "Harrogate 017C",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005777",
-  "LSOA (code)": "E01027660",
+  "LSOA (code)": "E01027662",
   "FSM": "91",
   "AccreditationExpiryDate": ""
 }

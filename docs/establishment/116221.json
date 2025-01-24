@@ -54,7 +54,7 @@
   "UKPRN": "10079067",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Francis Avenue",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "465659",
   "Northing": "99708",
   "MSOA (name)": "Portsmouth 019",
-  "LSOA (name)": "Portsmouth 019B",
+  "LSOA (name)": "Portsmouth 019E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003542",
-  "LSOA (code)": "E01017025",
+  "LSOA (code)": "E01017030",
   "FSM": "122",
   "AccreditationExpiryDate": ""
 }

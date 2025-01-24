@@ -54,7 +54,7 @@
   "UKPRN": "10004136",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "06-01-2025",
+  "LastChangedDate": "23-01-2025",
   "Street": "Albany Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "334305",
   "Northing": "428341",
   "MSOA (name)": "Fylde 008",
-  "LSOA (name)": "Fylde 008C",
+  "LSOA (name)": "Fylde 008B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005210",
-  "LSOA (code)": "E01024983",
+  "LSOA (code)": "E01024982",
   "FSM": "364",
   "AccreditationExpiryDate": ""
 }

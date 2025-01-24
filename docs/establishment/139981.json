@@ -54,7 +54,7 @@
   "UKPRN": "10042601",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Margaret Street",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "518263",
   "Northing": "414032",
   "MSOA (name)": "North East Lincolnshire 001",
-  "LSOA (name)": "North East Lincolnshire 001F",
+  "LSOA (name)": "North East Lincolnshire 001G",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002726",
-  "LSOA (code)": "E01013179",
+  "LSOA (code)": "E01013180",
   "FSM": "77",
   "AccreditationExpiryDate": ""
 }

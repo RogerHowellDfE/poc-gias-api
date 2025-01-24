@@ -54,7 +54,7 @@
   "UKPRN": "10076805",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "26-11-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Hills Terrace",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "575579",
   "Northing": "167357",
   "MSOA (name)": "Medway 015",
-  "LSOA (name)": "Medway 015B",
+  "LSOA (name)": "Medway 015A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003328",
-  "LSOA (code)": "E01016017",
+  "LSOA (code)": "E01016016",
   "FSM": "106",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10073273",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "17-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Bramley Road",
   "Locality": "Laira",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "250221",
   "Northing": "55909",
   "MSOA (name)": "Plymouth 021",
-  "LSOA (name)": "Plymouth 021D",
+  "LSOA (name)": "Plymouth 021C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003142",
-  "LSOA (code)": "E01015059",
+  "LSOA (code)": "E01015057",
   "FSM": "113",
   "AccreditationExpiryDate": ""
 }

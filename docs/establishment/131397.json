@@ -54,7 +54,7 @@
   "UKPRN": "10075546",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Gregories Drive",
   "Locality": "Wavendon Gate",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "490637",
   "Northing": "236689",
   "MSOA (name)": "Milton Keynes 022",
-  "LSOA (name)": "Milton Keynes 022A",
+  "LSOA (name)": "Milton Keynes 022B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003480",
-  "LSOA (code)": "E01016822",
+  "LSOA (code)": "E01016824",
   "FSM": "101",
   "AccreditationExpiryDate": ""
 }

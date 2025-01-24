@@ -54,7 +54,7 @@
   "UKPRN": "10056251",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Cherry Lane",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "376330",
   "Northing": "390852",
   "MSOA (name)": "Trafford 019",
-  "LSOA (name)": "Trafford 019E",
+  "LSOA (name)": "Trafford 019D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001277",
-  "LSOA (code)": "E01006168",
+  "LSOA (code)": "E01006167",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

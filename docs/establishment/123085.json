@@ -54,7 +54,7 @@
   "UKPRN": "10069256",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Boulter Drive",
   "Locality": "",
   "Address3": "Boulter Drive",
@@ -112,7 +112,7 @@
   "Easting": "450041",
   "Northing": "199045",
   "MSOA (name)": "Vale of White Horse 004",
-  "LSOA (name)": "Vale of White Horse 004B",
+  "LSOA (name)": "Vale of White Horse 004A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005981",
-  "LSOA (code)": "E01028694",
+  "LSOA (code)": "E01028693",
   "FSM": "16",
   "AccreditationExpiryDate": ""
 }

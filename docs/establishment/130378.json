@@ -54,7 +54,7 @@
   "UKPRN": "10078210",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Thorntree Road",
   "Locality": "Thornaby",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "445435",
   "Northing": "517421",
   "MSOA (name)": "Stockton-on-Tees 018",
-  "LSOA (name)": "Stockton-on-Tees 018B",
+  "LSOA (name)": "Stockton-on-Tees 018A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002552",
-  "LSOA (code)": "E01012239",
+  "LSOA (code)": "E01012238",
   "FSM": "232",
   "AccreditationExpiryDate": ""
 }

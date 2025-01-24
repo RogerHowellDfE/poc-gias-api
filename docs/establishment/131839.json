@@ -54,7 +54,7 @@
   "UKPRN": "10062413",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Honeysuckle Road",
   "Locality": "Bassett",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "442874",
   "Northing": "115730",
   "MSOA (name)": "Southampton 001",
-  "LSOA (name)": "Southampton 001A",
+  "LSOA (name)": "Southampton 001E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003549",
-  "LSOA (code)": "E01017144",
+  "LSOA (code)": "E01017149",
   "FSM": "183",
   "AccreditationExpiryDate": ""
 }

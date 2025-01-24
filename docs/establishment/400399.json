@@ -54,7 +54,7 @@
   "UKPRN": "",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Plas Kynaston Lane",
   "Locality": "Cefn Mawr",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "328011",
   "Northing": "341970",
   "MSOA (name)": "Wrexham 017",
-  "LSOA (name)": "Wrexham 017B",
+  "LSOA (name)": "Wrexham 017C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "W02000094",
-  "LSOA (code)": "W01000355",
+  "LSOA (code)": "W01000356",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

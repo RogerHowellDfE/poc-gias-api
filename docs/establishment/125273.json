@@ -54,7 +54,7 @@
   "UKPRN": "10016805",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Balcombe Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "529037",
   "Northing": "143173",
   "MSOA (name)": "Reigate and Banstead 017",
-  "LSOA (name)": "Reigate and Banstead 017B",
+  "LSOA (name)": "Reigate and Banstead 017D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006391",
-  "LSOA (code)": "E01030581",
+  "LSOA (code)": "E01030583",
   "FSM": "244",
   "AccreditationExpiryDate": ""
 }

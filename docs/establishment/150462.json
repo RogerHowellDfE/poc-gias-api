@@ -54,7 +54,7 @@
   "UKPRN": "10094085",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "20-01-2025",
+  "LastChangedDate": "23-01-2025",
   "Street": "The Fairway",
   "Locality": "Offerton",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "392185",
   "Northing": "389548",
   "MSOA (name)": "Stockport 021",
-  "LSOA (name)": "Stockport 021B",
+  "LSOA (name)": "Stockport 021A",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001207",
-  "LSOA (code)": "E01005833",
+  "LSOA (code)": "E01005832",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10057444",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "16-01-2025",
+  "LastChangedDate": "23-01-2025",
   "Street": "2 Bentham Road",
   "Locality": "Thamesmead",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "546939",
   "Northing": "180338",
   "MSOA (name)": "Greenwich 001",
-  "LSOA (name)": "Greenwich 001D",
+  "LSOA (name)": "Greenwich 001C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000313",
-  "LSOA (code)": "E01001694",
+  "LSOA (code)": "E01001693",
   "FSM": "350",
   "AccreditationExpiryDate": ""
 }

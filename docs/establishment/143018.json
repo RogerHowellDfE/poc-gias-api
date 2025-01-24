@@ -54,7 +54,7 @@
   "UKPRN": "10073517",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Wotton House",
   "Locality": "Horton Road",
   "Address3": "Gloucester",
@@ -112,7 +112,7 @@
   "Easting": "384467",
   "Northing": "218835",
   "MSOA (name)": "Gloucester 002",
-  "LSOA (name)": "Gloucester 002D",
+  "LSOA (name)": "Gloucester 002C",
   "InspectorateName (name)": "ISI",
   "SENStat": "22",
   "SENNoStat": "5",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004637",
-  "LSOA (code)": "E01022312",
+  "LSOA (code)": "E01022311",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

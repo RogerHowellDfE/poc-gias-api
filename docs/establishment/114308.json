@@ -54,7 +54,7 @@
   "UKPRN": "10007896",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "06-01-2025",
+  "LastChangedDate": "23-01-2025",
   "Street": "The Links",
   "Locality": "Belmont",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "430516",
   "Northing": "543344",
   "MSOA (name)": "County Durham 028",
-  "LSOA (name)": "County Durham 028B",
+  "LSOA (name)": "County Durham 028A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004312",
-  "LSOA (code)": "E01020683",
+  "LSOA (code)": "E01020682",
   "FSM": "269",
   "AccreditationExpiryDate": ""
 }

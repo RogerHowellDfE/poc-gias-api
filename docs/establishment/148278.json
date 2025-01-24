@@ -54,7 +54,7 @@
   "UKPRN": "10087343",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Manor Park North",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "376134",
   "Northing": "378766",
   "MSOA (name)": "Cheshire East 009",
-  "LSOA (name)": "Cheshire East 009B",
+  "LSOA (name)": "Cheshire East 009C",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003861",
-  "LSOA (code)": "E01018609",
+  "LSOA (code)": "E01018610",
   "FSM": "90",
   "AccreditationExpiryDate": ""
 }

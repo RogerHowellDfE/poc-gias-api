@@ -54,7 +54,7 @@
   "UKPRN": "10066230",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Potters Gate",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "483463",
   "Northing": "146755",
   "MSOA (name)": "Waverley 003",
-  "LSOA (name)": "Waverley 003A",
+  "LSOA (name)": "Waverley 003B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006441",
-  "LSOA (code)": "E01030884",
+  "LSOA (code)": "E01030885",
   "FSM": "63",
   "AccreditationExpiryDate": ""
 }

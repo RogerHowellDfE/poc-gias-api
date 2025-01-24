@@ -54,7 +54,7 @@
   "UKPRN": "10068656",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "School Street",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "365221",
   "Northing": "401805",
   "MSOA (name)": "Wigan 027",
-  "LSOA (name)": "Wigan 027A",
+  "LSOA (name)": "Wigan 027B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001313",
-  "LSOA (code)": "E01006282",
+  "LSOA (code)": "E01006283",
   "FSM": "116",
   "AccreditationExpiryDate": ""
 }

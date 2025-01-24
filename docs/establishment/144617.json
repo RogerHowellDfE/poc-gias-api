@@ -54,7 +54,7 @@
   "UKPRN": "10065558",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "16-01-2025",
+  "LastChangedDate": "23-01-2025",
   "Street": "Latham Avenue",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "352508",
   "Northing": "382217",
   "MSOA (name)": "Halton 011",
-  "LSOA (name)": "Halton 011E",
+  "LSOA (name)": "Halton 011C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002584",
-  "LSOA (code)": "E01012405",
+  "LSOA (code)": "E01012402",
   "FSM": "625",
   "AccreditationExpiryDate": ""
 }

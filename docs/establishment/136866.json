@@ -54,7 +54,7 @@
   "UKPRN": "10034124",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Worthing Road",
   "Locality": "Southwater",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "515752",
   "Northing": "126670",
   "MSOA (name)": "Horsham 009",
-  "LSOA (name)": "Horsham 009F",
+  "LSOA (name)": "Horsham 009D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006596",
-  "LSOA (code)": "E01031683",
+  "LSOA (code)": "E01031681",
   "FSM": "15",
   "AccreditationExpiryDate": ""
 }

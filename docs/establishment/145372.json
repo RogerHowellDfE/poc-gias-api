@@ -54,7 +54,7 @@
   "UKPRN": "10066382",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Allaway Avenue",
   "Locality": "Paulsgrove",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "462589",
   "Northing": "105939",
   "MSOA (name)": "Portsmouth 004",
-  "LSOA (name)": "Portsmouth 004B",
+  "LSOA (name)": "Portsmouth 004C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003527",
-  "LSOA (code)": "E01017113",
+  "LSOA (code)": "E01017114",
   "FSM": "354",
   "AccreditationExpiryDate": ""
 }

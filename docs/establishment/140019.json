@@ -54,7 +54,7 @@
   "UKPRN": "10042931",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "23-01-2025",
   "Street": "Park Mead",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "543773",
   "Northing": "210441",
   "MSOA (name)": "Harlow 004",
-  "LSOA (name)": "Harlow 004A",
+  "LSOA (name)": "Harlow 004C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004547",
-  "LSOA (code)": "E01021839",
+  "LSOA (code)": "E01021841",
   "FSM": "132",
   "AccreditationExpiryDate": ""
 }
