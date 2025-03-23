@@ -54,7 +54,7 @@
   "UKPRN": "10072537",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "10-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "William Booth Road",
   "Locality": "Fairstead",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "564695",
   "Northing": "319954",
   "MSOA (name)": "King's Lynn and West Norfolk 010",
-  "LSOA (name)": "King's Lynn and West Norfolk 010B",
+  "LSOA (name)": "King's Lynn and West Norfolk 010C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005560",
-  "LSOA (code)": "E01026663",
+  "LSOA (code)": "E01026664",
   "FSM": "138",
   "AccreditationExpiryDate": ""
 }

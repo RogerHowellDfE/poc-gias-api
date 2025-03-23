@@ -54,7 +54,7 @@
   "UKPRN": "10034747",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "12-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Ashley Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "382047",
   "Northing": "161480",
   "MSOA (name)": "Wiltshire 027",
-  "LSOA (name)": "Wiltshire 027A",
+  "LSOA (name)": "Wiltshire 027C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006682",
-  "LSOA (code)": "E01032045",
+  "LSOA (code)": "E01032047",
   "FSM": "137",
   "AccreditationExpiryDate": ""
 }

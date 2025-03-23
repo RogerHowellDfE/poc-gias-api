@@ -54,7 +54,7 @@
   "UKPRN": "10009306",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Ffordd Llanbadarn",
   "Locality": "Llangawsai",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "259456",
   "Northing": "281081",
   "MSOA (name)": "Ceredigion 003",
-  "LSOA (name)": "Ceredigion 003F",
+  "LSOA (name)": "Ceredigion 003E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "W02000118",
-  "LSOA (code)": "W01001936",
+  "LSOA (code)": "W01001935",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

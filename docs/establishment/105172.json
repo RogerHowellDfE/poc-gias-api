@@ -54,7 +54,7 @@
   "UKPRN": "10078447",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "07-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Henniker Road",
   "Locality": "",
   "Address3": "Heathfield Primary School",
@@ -112,7 +112,7 @@
   "Easting": "369441",
   "Northing": "406713",
   "MSOA (name)": "Bolton 026",
-  "LSOA (name)": "Bolton 026C",
+  "LSOA (name)": "Bolton 026B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001009",
-  "LSOA (code)": "E01004833",
+  "LSOA (code)": "E01004831",
   "FSM": "67",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10086537",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Coisley Hill",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "441036",
   "Northing": "384617",
   "MSOA (name)": "Sheffield 049",
-  "LSOA (name)": "Sheffield 049C",
+  "LSOA (name)": "Sheffield 049B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001659",
-  "LSOA (code)": "E01007968",
+  "LSOA (code)": "E01007966",
   "FSM": "210",
   "AccreditationExpiryDate": ""
 }

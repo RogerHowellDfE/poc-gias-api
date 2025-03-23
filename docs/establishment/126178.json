@@ -54,7 +54,7 @@
   "UKPRN": "10079758",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "16-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Carpenter's Lane",
   "Locality": "Bratton",
   "Address3": "Carpenters Lane",
@@ -112,7 +112,7 @@
   "Easting": "391483",
   "Northing": "152507",
   "MSOA (name)": "Wiltshire 039",
-  "LSOA (name)": "Wiltshire 039C",
+  "LSOA (name)": "Wiltshire 039D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006690",
-  "LSOA (code)": "E01032055",
+  "LSOA (code)": "E01032056",
   "FSM": "22",
   "AccreditationExpiryDate": ""
 }

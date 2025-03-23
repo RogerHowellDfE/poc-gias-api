@@ -54,7 +54,7 @@
   "UKPRN": "10055479",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "10-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Crompton Way",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "373041",
   "Northing": "410931",
   "MSOA (name)": "Bolton 010",
-  "LSOA (name)": "Bolton 010D",
+  "LSOA (name)": "Bolton 010B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000993",
-  "LSOA (code)": "E01004929",
+  "LSOA (code)": "E01004926",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

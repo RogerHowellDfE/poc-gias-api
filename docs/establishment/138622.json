@@ -54,7 +54,7 @@
   "UKPRN": "10038595",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "28-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Duffield Road",
   "Locality": "Darley Abbey",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "434643",
   "Northing": "338558",
   "MSOA (name)": "Derby 005",
-  "LSOA (name)": "Derby 005D",
+  "LSOA (name)": "Derby 005B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002800",
-  "LSOA (code)": "E01013529",
+  "LSOA (code)": "E01013527",
   "FSM": "360",
   "AccreditationExpiryDate": ""
 }

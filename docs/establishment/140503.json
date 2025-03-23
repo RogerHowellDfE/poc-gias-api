@@ -54,7 +54,7 @@
   "UKPRN": "10044509",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "11-03-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Manor Farm Way",
   "Locality": "Coulby Newham",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "450155",
   "Northing": "514951",
   "MSOA (name)": "Middlesbrough 019",
-  "LSOA (name)": "Middlesbrough 019B",
+  "LSOA (name)": "Middlesbrough 019A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002514",
-  "LSOA (code)": "E01012031",
+  "LSOA (code)": "E01012030",
   "FSM": "119",
   "AccreditationExpiryDate": ""
 }

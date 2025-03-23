@@ -54,7 +54,7 @@
   "UKPRN": "10074157",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "24-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Jack Walker Way",
   "Locality": "Fernhurst Farm",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "367822",
   "Northing": "425492",
   "MSOA (name)": "Blackburn with Darwen 013",
-  "LSOA (name)": "Blackburn with Darwen 013D",
+  "LSOA (name)": "Blackburn with Darwen 013C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002627",
-  "LSOA (code)": "E01012599",
+  "LSOA (code)": "E01012598",
   "FSM": "37",
   "AccreditationExpiryDate": ""
 }

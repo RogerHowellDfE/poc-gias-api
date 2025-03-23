@@ -54,7 +54,7 @@
   "UKPRN": "10041653",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "16-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Oxford Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "480998",
   "Northing": "213414",
   "MSOA (name)": "Buckinghamshire 017",
-  "LSOA (name)": "Buckinghamshire 017C",
+  "LSOA (name)": "Buckinghamshire 017D",
   "InspectorateName (name)": "Ofsted",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003669",
-  "LSOA (code)": "E01017711",
+  "LSOA (code)": "E01017712",
   "FSM": "47",
   "AccreditationExpiryDate": ""
 }

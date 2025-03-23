@@ -54,7 +54,7 @@
   "UKPRN": "10034997",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "High Street",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "628956",
   "Northing": "235743",
   "MSOA (name)": "East Suffolk 029",
-  "LSOA (name)": "East Suffolk 029B",
+  "LSOA (name)": "East Suffolk 029A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006300",
-  "LSOA (code)": "E01030161",
+  "LSOA (code)": "E01030160",
   "FSM": "283",
   "AccreditationExpiryDate": ""
 }

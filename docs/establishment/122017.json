@@ -54,7 +54,7 @@
   "UKPRN": "10077954",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "27-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Ecton Brook Road",
   "Locality": "Ecton Brook",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "481721",
   "Northing": "262689",
   "MSOA (name)": "West Northamptonshire 026",
-  "LSOA (name)": "West Northamptonshire 026D",
+  "LSOA (name)": "West Northamptonshire 026C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005660",
-  "LSOA (code)": "E01027177",
+  "LSOA (code)": "E01027176",
   "FSM": "96",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10074496",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Arnside Road",
   "Locality": "Harraby",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "342169",
   "Northing": "554295",
   "MSOA (name)": "Carlisle 011",
-  "LSOA (name)": "Carlisle 011E",
+  "LSOA (name)": "Carlisle 011D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003997",
-  "LSOA (code)": "E01019222",
+  "LSOA (code)": "E01019221",
   "FSM": "98",
   "AccreditationExpiryDate": ""
 }

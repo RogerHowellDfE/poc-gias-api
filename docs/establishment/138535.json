@@ -54,7 +54,7 @@
   "UKPRN": "10038170",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "28-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Sycamore Avenue",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "448815",
   "Northing": "423078",
   "MSOA (name)": "Wakefield 011",
-  "LSOA (name)": "Wakefield 011A",
+  "LSOA (name)": "Wakefield 011E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002448",
-  "LSOA (code)": "E01011803",
+  "LSOA (code)": "E01011811",
   "FSM": "184",
   "AccreditationExpiryDate": ""
 }

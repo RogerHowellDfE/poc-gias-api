@@ -54,7 +54,7 @@
   "UKPRN": "10067210",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Nightingale Lane",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "541346",
   "Northing": "168987",
   "MSOA (name)": "Bromley 016",
-  "LSOA (name)": "Bromley 016A",
+  "LSOA (name)": "Bromley 016B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000142",
-  "LSOA (code)": "E01000646",
+  "LSOA (code)": "E01000647",
   "FSM": "28",
   "AccreditationExpiryDate": ""
 }

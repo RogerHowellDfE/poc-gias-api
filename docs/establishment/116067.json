@@ -54,7 +54,7 @@
   "UKPRN": "10079082",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "10-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Springwood Avenue",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "468795",
   "Northing": "108779",
   "MSOA (name)": "Havant 007",
-  "LSOA (name)": "Havant 007D",
+  "LSOA (name)": "Havant 007C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004768",
-  "LSOA (code)": "E01022964",
+  "LSOA (code)": "E01022963",
   "FSM": "84",
   "AccreditationExpiryDate": ""
 }

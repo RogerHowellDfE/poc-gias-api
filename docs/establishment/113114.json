@@ -54,7 +54,7 @@
   "UKPRN": "10076107",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Gables Road",
   "Locality": "Willand",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "303648",
   "Northing": "110923",
   "MSOA (name)": "Mid Devon 006",
-  "LSOA (name)": "Mid Devon 006C",
+  "LSOA (name)": "Mid Devon 006D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004169",
-  "LSOA (code)": "E01020062",
+  "LSOA (code)": "E01020064",
   "FSM": "48",
   "AccreditationExpiryDate": ""
 }

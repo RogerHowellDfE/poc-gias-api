@@ -54,7 +54,7 @@
   "UKPRN": "10045648",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "14-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Burnage Lane",
   "Locality": "Burnage",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "386452",
   "Northing": "392362",
   "MSOA (name)": "Manchester 041",
-  "LSOA (name)": "Manchester 041B",
+  "LSOA (name)": "Manchester 041A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001085",
-  "LSOA (code)": "E01005121",
+  "LSOA (code)": "E01005119",
   "FSM": "410",
   "AccreditationExpiryDate": ""
 }

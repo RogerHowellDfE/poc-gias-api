@@ -54,7 +54,7 @@
   "UKPRN": "10016608",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Morecambe Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "345523",
   "Northing": "463236",
   "MSOA (name)": "Lancaster 020",
-  "LSOA (name)": "Lancaster 020E",
+  "LSOA (name)": "Lancaster 020D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006871",
-  "LSOA (code)": "E01025165",
+  "LSOA (code)": "E01025164",
   "FSM": "97",
   "AccreditationExpiryDate": ""
 }

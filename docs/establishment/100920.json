@@ -54,7 +54,7 @@
   "UKPRN": "10074587",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "16-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Wyvis Street",
   "Locality": "Poplar",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "537943",
   "Northing": "181797",
   "MSOA (name)": "Tower Hamlets 018",
-  "LSOA (name)": "Tower Hamlets 018E",
+  "LSOA (name)": "Tower Hamlets 018C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000881",
-  "LSOA (code)": "E01035678",
+  "LSOA (code)": "E01004248",
   "FSM": "296",
   "AccreditationExpiryDate": ""
 }

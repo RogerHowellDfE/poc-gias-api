@@ -54,7 +54,7 @@
   "UKPRN": "10040987",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "13-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Devonshire Avenue",
   "Locality": "Sheerwater",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "502686",
   "Northing": "160596",
   "MSOA (name)": "Woking 004",
-  "LSOA (name)": "Woking 004G",
+  "LSOA (name)": "Woking 004E",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02006459",
-  "LSOA (code)": "E01034293",
+  "LSOA (code)": "E01030984",
   "FSM": "95",
   "AccreditationExpiryDate": ""
 }

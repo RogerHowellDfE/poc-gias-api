@@ -54,7 +54,7 @@
   "UKPRN": "10043460",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "11-03-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Sheffield Road",
   "Locality": "Hoyland Common",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "435489",
   "Northing": "400195",
   "MSOA (name)": "Barnsley 028",
-  "LSOA (name)": "Barnsley 028E",
+  "LSOA (name)": "Barnsley 028B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001536",
-  "LSOA (code)": "E01007424",
+  "LSOA (code)": "E01007397",
   "FSM": "70",
   "AccreditationExpiryDate": ""
 }

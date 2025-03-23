@@ -54,7 +54,7 @@
   "UKPRN": "10069998",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Coat of Arms Bridge Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "432544",
   "Northing": "276709",
   "MSOA (name)": "Coventry 041",
-  "LSOA (name)": "Coventry 041A",
+  "LSOA (name)": "Coventry 041B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001998",
-  "LSOA (code)": "E01009666",
+  "LSOA (code)": "E01009667",
   "FSM": "36",
   "AccreditationExpiryDate": ""
 }

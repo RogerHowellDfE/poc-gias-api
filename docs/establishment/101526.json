@@ -54,7 +54,7 @@
   "UKPRN": "10071270",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Barnhill Road",
   "Locality": "Brent",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "519973",
   "Northing": "186213",
   "MSOA (name)": "Brent 009",
-  "LSOA (name)": "Brent 009D",
+  "LSOA (name)": "Brent 009G",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000101",
-  "LSOA (code)": "E01000483",
+  "LSOA (code)": "E01033932",
   "FSM": "116",
   "AccreditationExpiryDate": ""
 }

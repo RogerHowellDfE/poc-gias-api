@@ -54,7 +54,7 @@
   "UKPRN": "10078484",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Hazel Close",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "449197",
   "Northing": "89103",
   "MSOA (name)": "Isle of Wight 011",
-  "LSOA (name)": "Isle of Wight 011B",
+  "LSOA (name)": "Isle of Wight 011A",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003591",
-  "LSOA (code)": "E01017293",
+  "LSOA (code)": "E01017292",
   "FSM": "58",
   "AccreditationExpiryDate": ""
 }

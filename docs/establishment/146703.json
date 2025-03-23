@@ -54,7 +54,7 @@
   "UKPRN": "10082212",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "15-11-2024",
+  "LastChangedDate": "21-03-2025",
   "Street": "Keppel Street",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "394526",
   "Northing": "399065",
   "MSOA (name)": "Tameside 007",
-  "LSOA (name)": "Tameside 007A",
+  "LSOA (name)": "Tameside 007C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001235",
-  "LSOA (code)": "E01005941",
+  "LSOA (code)": "E01005943",
   "FSM": "77",
   "AccreditationExpiryDate": ""
 }

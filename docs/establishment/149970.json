@@ -54,7 +54,7 @@
   "UKPRN": "10092919",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "26-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Mandeville Road",
   "Locality": "Marks Tey",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "590140",
   "Northing": "223246",
   "MSOA (name)": "Colchester 010",
-  "LSOA (name)": "Colchester 010E",
+  "LSOA (name)": "Colchester 010D",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004515",
-  "LSOA (code)": "E01021678",
+  "LSOA (code)": "E01021677",
   "FSM": "16",
   "AccreditationExpiryDate": ""
 }

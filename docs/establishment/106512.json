@@ -54,7 +54,7 @@
   "UKPRN": "10068652",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "27-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "West Bridgewater Street",
   "Locality": "Pennington",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "365635",
   "Northing": "399711",
   "MSOA (name)": "Wigan 037",
-  "LSOA (name)": "Wigan 037A",
+  "LSOA (name)": "Wigan 037B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001323",
-  "LSOA (code)": "E01006296",
+  "LSOA (code)": "E01006298",
   "FSM": "83",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10067072",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Roughwood Road",
   "Locality": "Wingfield Estate",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "440888",
   "Northing": "395359",
   "MSOA (name)": "Rotherham 009",
-  "LSOA (name)": "Rotherham 009E",
+  "LSOA (name)": "Rotherham 009F",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001586",
-  "LSOA (code)": "E01007732",
+  "LSOA (code)": "E01007733",
   "FSM": "80",
   "AccreditationExpiryDate": ""
 }

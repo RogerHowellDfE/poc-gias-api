@@ -54,7 +54,7 @@
   "UKPRN": "10064024",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "3 Tawny Owl Square",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "484725",
   "Northing": "167644",
   "MSOA (name)": "Bracknell Forest 009",
-  "LSOA (name)": "Bracknell Forest 009I",
+  "LSOA (name)": "Bracknell Forest 009J",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003360",
-  "LSOA (code)": "E01035245",
+  "LSOA (code)": "E01035246",
   "FSM": "51",
   "AccreditationExpiryDate": ""
 }

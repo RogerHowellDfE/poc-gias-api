@@ -54,7 +54,7 @@
   "UKPRN": "10079604",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-03-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Oakington Way",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "530347",
   "Northing": "187996",
   "MSOA (name)": "Haringey 034",
-  "LSOA (name)": "Haringey 034A",
+  "LSOA (name)": "Haringey 034B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000430",
-  "LSOA (code)": "E01001986",
+  "LSOA (code)": "E01001988",
   "FSM": "11",
   "AccreditationExpiryDate": ""
 }

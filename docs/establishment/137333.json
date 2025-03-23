@@ -54,7 +54,7 @@
   "UKPRN": "10026751",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "12-03-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "43-45 Bloomsbury Square & 2 Southampton Place",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "530364",
   "Northing": "181581",
   "MSOA (name)": "Camden 028",
-  "LSOA (name)": "Camden 028C",
+  "LSOA (name)": "Camden 028B",
   "InspectorateName (name)": "ISI",
   "SENStat": "0",
   "SENNoStat": "7",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000193",
-  "LSOA (code)": "E01000918",
+  "LSOA (code)": "E01000914",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10069763",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "03-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Poolemead Road",
   "Locality": "Twerton",
   "Address3": "Twerton Infant School,Poolemead Road,Twerton,Bath",
@@ -112,7 +112,7 @@
   "Easting": "372061",
   "Northing": "164489",
   "MSOA (name)": "Bath and North East Somerset 011",
-  "LSOA (name)": "Bath and North East Somerset 011B",
+  "LSOA (name)": "Bath and North East Somerset 011C",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02002995",
-  "LSOA (code)": "E01014462",
+  "LSOA (code)": "E01014463",
   "FSM": "75",
   "AccreditationExpiryDate": ""
 }

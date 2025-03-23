@@ -54,7 +54,7 @@
   "UKPRN": "10079828",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Longsands Road",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "519469",
   "Northing": "260798",
   "MSOA (name)": "Huntingdonshire 019",
-  "LSOA (name)": "Huntingdonshire 019B",
+  "LSOA (name)": "Huntingdonshire 019D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003771",
-  "LSOA (code)": "E01018188",
+  "LSOA (code)": "E01018190",
   "FSM": "80",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10077458",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "French Street",
   "Locality": "Old Town",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "441947",
   "Northing": "111114",
   "MSOA (name)": "Southampton 034",
-  "LSOA (name)": "Southampton 034C",
+  "LSOA (name)": "Southampton 034D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02007075",
-  "LSOA (code)": "E01032746",
+  "LSOA (code)": "E01032748",
   "FSM": "140",
   "AccreditationExpiryDate": ""
 }

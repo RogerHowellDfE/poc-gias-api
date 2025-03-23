@@ -54,7 +54,7 @@
   "UKPRN": "10094074",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "10-03-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Bradbury Road",
   "Locality": "Wharton",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "366431",
   "Northing": "366546",
   "MSOA (name)": "Cheshire West and Chester 035",
-  "LSOA (name)": "Cheshire West and Chester 035B",
+  "LSOA (name)": "Cheshire West and Chester 035A",
   "InspectorateName (name)": "Not applicable",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02003886",
-  "LSOA (code)": "E01018734",
+  "LSOA (code)": "E01018733",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

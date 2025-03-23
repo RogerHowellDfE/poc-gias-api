@@ -54,7 +54,7 @@
   "UKPRN": "10044156",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Princethorpe Way",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "436932",
   "Northing": "277642",
   "MSOA (name)": "Coventry 035",
-  "LSOA (name)": "Coventry 035C",
+  "LSOA (name)": "Coventry 035H",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001992",
-  "LSOA (code)": "E01009537",
+  "LSOA (code)": "E01032528",
   "FSM": "435",
   "AccreditationExpiryDate": ""
 }

@@ -54,7 +54,7 @@
   "UKPRN": "10079398",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "87 Blandford Street",
   "Locality": "Ashton Under Lyne",
   "Address3": "Tameside",
@@ -112,7 +112,7 @@
   "Easting": "393242",
   "Northing": "399096",
   "MSOA (name)": "Tameside 013",
-  "LSOA (name)": "Tameside 013A",
+  "LSOA (name)": "Tameside 013F",
   "InspectorateName (name)": "Ofsted",
   "SENStat": "2",
   "SENNoStat": "21",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001241",
-  "LSOA (code)": "E01005948",
+  "LSOA (code)": "E01033949",
   "FSM": "",
   "AccreditationExpiryDate": ""
 }

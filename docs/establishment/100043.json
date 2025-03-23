@@ -54,7 +54,7 @@
   "UKPRN": "10079313",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "23-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "81 Werrington Street",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "529495",
   "Northing": "183146",
   "MSOA (name)": "Camden 022",
-  "LSOA (name)": "Camden 022C",
+  "LSOA (name)": "Camden 022D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02000187",
-  "LSOA (code)": "E01000954",
+  "LSOA (code)": "E01000955",
   "FSM": "126",
   "AccreditationExpiryDate": ""
 }

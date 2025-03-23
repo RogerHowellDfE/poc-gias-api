@@ -54,7 +54,7 @@
   "UKPRN": "10000566",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-12-2024",
+  "LastChangedDate": "21-03-2025",
   "Street": "Townsend Drive",
   "Locality": "",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "514638",
   "Northing": "208717",
   "MSOA (name)": "St Albans 009",
-  "LSOA (name)": "St Albans 009B",
+  "LSOA (name)": "St Albans 009D",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004932",
-  "LSOA (code)": "E01023670",
+  "LSOA (code)": "E01023672",
   "FSM": "55",
   "AccreditationExpiryDate": ""
 }

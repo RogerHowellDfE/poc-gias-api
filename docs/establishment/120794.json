@@ -54,7 +54,7 @@
   "UKPRN": "10073098",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "15-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Aylsham Road",
   "Locality": "Buxton",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "623317",
   "Northing": "322743",
   "MSOA (name)": "Broadland 003",
-  "LSOA (name)": "Broadland 003A",
+  "LSOA (name)": "Broadland 003B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02005522",
-  "LSOA (code)": "E01026514",
+  "LSOA (code)": "E01026515",
   "FSM": "28",
   "AccreditationExpiryDate": ""
 }

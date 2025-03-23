@@ -54,7 +54,7 @@
   "UKPRN": "10070729",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "17-01-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Wood Street",
   "Locality": "Langley",
   "Address3": "Middleton",
@@ -112,7 +112,7 @@
   "Easting": "386137",
   "Northing": "406580",
   "MSOA (name)": "Rochdale 022",
-  "LSOA (name)": "Rochdale 022A",
+  "LSOA (name)": "Rochdale 022B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02001153",
-  "LSOA (code)": "E01005527",
+  "LSOA (code)": "E01005529",
   "FSM": "132",
   "AccreditationExpiryDate": ""
 }

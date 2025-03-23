@@ -54,7 +54,7 @@
   "UKPRN": "10069660",
   "FEHEIdentifier": "",
   "FurtherEducationType (name)": "Not applicable",
-  "LastChangedDate": "05-02-2025",
+  "LastChangedDate": "21-03-2025",
   "Street": "Calmore Drive",
   "Locality": "Calmore",
   "Address3": "",
@@ -112,7 +112,7 @@
   "Easting": "434294",
   "Northing": "114511",
   "MSOA (name)": "New Forest 002",
-  "LSOA (name)": "New Forest 002C",
+  "LSOA (name)": "New Forest 002B",
   "InspectorateName (name)": "",
   "SENStat": "",
   "SENNoStat": "",
@@ -131,7 +131,7 @@
   "QABReport": "",
   "CHNumber": "",
   "MSOA (code)": "E02004780",
-  "LSOA (code)": "E01023083",
+  "LSOA (code)": "E01023082",
   "FSM": "66",
   "AccreditationExpiryDate": ""
 }
