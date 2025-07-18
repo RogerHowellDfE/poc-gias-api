@@ -34,6 +34,8 @@ jobs:
               }
           )
 
+          $success = $true
+
           if (-Not (Test-Path -Path $outputDir)) {
               New-Item -ItemType Directory -Path $outputDir | Out-Null
           }
@@ -45,7 +47,13 @@ jobs:
                   Write-Host "Downloaded: $($item.url) to $outputFile"
               } catch {
                   Write-Host "Failed to download: $($item.url)"
+                  $success = $false
               }
+          }
+
+          if (-Not $success) {
+              Write-Host "One or more downloads failed."
+              exit 1
           }
 
       - name: Convert CSV to pre-compiled JSON/HTML files
