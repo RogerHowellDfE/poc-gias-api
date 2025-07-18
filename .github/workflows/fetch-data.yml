@@ -58,7 +58,18 @@ jobs:
               exit 1
           }
 
+          
+      - name: Check for changes in CSV files
+        run: |
+          if git diff --quiet docs/data; then
+            echo "No changes detected in CSV files."
+            exit 0
+          else
+            echo "Changes detected in CSV files."
+          fi
+
       - name: Convert CSV to pre-compiled JSON/HTML files
+        if: ${{ steps.check-for-changes.outcome == 'success' }}
         shell: pwsh
         run: |
           ./scripts/generate-from-master-csv.ps1
